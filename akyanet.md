@@ -1,4 +1,4 @@
-<!-- Include Akyanet logo here -->
+![Akyanet logo!](/assets/images/akyanet-logo.png "Akyanet logo")
 # Akyanet documentation
 
 -----
