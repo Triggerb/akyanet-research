@@ -1,4 +1,5 @@
-![Akyanet logo!](/assets/images/akyanet-logo.png "Akyanet logo")
+<img src="/assets/images/akyanet-logo.png" alt="Akyanet logo" width="500" height="500" />
+
 # Akyanet documentation
 
 -----
@@ -160,6 +161,41 @@ Some examples of badges are given below.
 
 New badges can only be created by the badges administration.
 Every member of Akyanet can submit badge ideas to the badges administration.
+
+## Drafts (W.I.P.)
+
+### Inheritance and will
+
+|  | **Without will** | **With will** |
+|-:|:----------------:|:-------------:|
+| **You have no companion** | All of your goods are shared equally among the whole Akyanet community | You can dispose all of your goods in the way you want.  |
+| **You have one or more companions** | A quarter of your goods is shared equally among the whole Akyanet community and the rest is shared equally among your conjoints | You can dispose all of your goods in the way you want. |
+
+You can clearly see that writing your will is better for you because it allows you to choose what goods will go to whom.
+
+There are multiple will forms:
+
+1. Certified form
+2. Holographic form
+3. Free form
+
+#### Certified will
+
+A will is defined as a certified will when it meets all these conditions:
+
+- The testator is approved by Akyanet for writing other people's will.
+- The testator is not the will's owner (the person who dies having created a will before death).
+- The will is written in a computer file.
+- The will is registered in an official last will database.
+- The will is electronically signed by the testator, the will's owner, and the witnesses.
+- The will contains the scanned image of the signature of the testator, the will's owner, and the witnesses. Each signature must be clearly linked to their owner.
+- All references to people or entities (regions, associations, etc.) must be valid.
+- It contains the date of the document writing's end.
+- ...
+
+### Army
+
+### Selling products to non-Akyanet entities
 
 ## Ideas
 
